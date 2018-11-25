@@ -1,0 +1,3 @@
+git version control system
+mvn build
+jenkins automation
